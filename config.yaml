@@ -14,13 +14,13 @@ permalinks:
 
 menu:
   main:
-    - name: "Home"
+    - name: "主页"
       url: "/"
       weight: 1
-    - name: "About"
+    - name: "关于"
       url: "/about/"
       weight: 2
-    - name: "Categories"
+    - name: "博客"
       url: "/categories/"
       weight: 3
     - name: "Tags"
